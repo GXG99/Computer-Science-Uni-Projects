@@ -1,6 +1,5 @@
 # Babeş-Bolyai University - Computer science :mortar_board:
 University Projects 
-# UBB
 <ul>
   <li>
     <h3>First Semester:books:</h3>
