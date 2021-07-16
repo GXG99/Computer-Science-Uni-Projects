@@ -24,7 +24,9 @@
   <li>
     <h3>Forth Semester:books:</h3>
     <ul>
-      <li>In progress...</li>
+      <li><a href="https://github.com/GXG99/AI-UBB-RO-2021">Artificial Intelligence</a></li>
+      <li><a href="https://github.com/GXG99/WEB-UBB-RO-2021">Web Programming</a></li>
+      <li><a href="https://github.com/GXG99/ISS-UBB-RO-2021">Software Engineering</a></li>
     </ul>
   </li>
 </ul>
