@@ -29,4 +29,11 @@
       <li><a href="https://github.com/GXG99/ISS-UBB-RO-2021">Software Engineering</a></li>
     </ul>
   </li>
+    <li>
+    <h3>Fifth Semester:books:</h3>
+    <ul>
+      <li>Virtual Reality</li>
+      <li>AV Processing</li>
+    </ul>
+  </li>
 </ul>
