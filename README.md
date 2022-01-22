@@ -34,6 +34,7 @@
     <ul>
       <li>Virtual Reality</li>
       <li>AV Processing</li>
+      <li><a href="https://github.com/GXG99/FLCD-UBB-2021">Formal Languages and Compiler Design</a></li>
     </ul>
   </li>
 </ul>
