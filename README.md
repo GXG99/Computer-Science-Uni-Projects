@@ -33,7 +33,8 @@
     <h3>Fifth Semester:books:</h3>
     <ul>
       <li>Virtual Reality</li>
-            <li><a href="https://github.com/GXG99/AV-UBB-2021">Audio-Video processing</a></li>
+      <li><a href="https://github.com/GXG99/AV-UBB-2021">Audio-Video processing</a></li>
+       <li><a href="https://github.com/GXG99/Mobile-UBB-2021/tree/flutter">Mobile development</a></li>
       <li><a href="https://github.com/GXG99/FLCD-UBB-2021">Formal Languages and Compiler Design</a></li>
     </ul>
   </li>
