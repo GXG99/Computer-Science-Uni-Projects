@@ -27,6 +27,7 @@
       <li><a href="https://github.com/GXG99/AI-UBB-RO-2021">Artificial Intelligence</a></li>
       <li><a href="https://github.com/GXG99/WEB-UBB-RO-2021">Web Programming</a></li>
       <li><a href="https://github.com/GXG99/ISS-UBB-RO-2021">Software Engineering</a></li>
+      <li><a href="https://github.com/MXG99/MPP-UBB-2021">System design and implementation</a></li>
     </ul>
   </li>
     <li>
